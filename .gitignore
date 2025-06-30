@@ -1,0 +1,6 @@
+# Ignore environment variables file (contains your API key)
+.env
+
+# Ignore tutorial code
+index.mjs
+PromptTemplate.mjs
