@@ -4,3 +4,4 @@
 # Ignore tutorial code
 index.mjs
 PromptTemplate.mjs
+node_modules/
